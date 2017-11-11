@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\gleno\Documents\College Work\Year 2\Semester 1\Web And Mobile Design And Development\webapps\playapps\lab2\app\views\about.scala.html:1:3: not found: value message[0m
+[0m[[0m[31merror[0m] [0m[0m(@message: String)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\gleno\Documents\College Work\Year 2\Semester 1\Web And Mobile Design And Development\webapps\playapps\lab2\app\views\about.scala.html:41:36: not found: value message[0m
+[0m[[0m[31merror[0m] [0m[0m            <h1 class="display-3">@message</h1>[0m
+[0m[[0m[31merror[0m] [0m[0m                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
